@@ -1,2 +1,3 @@
-I like fruits.
+We like fruits.
 I like bananas and grapes.
+And maybe you like strawberries, but I do not.
