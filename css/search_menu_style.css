@@ -5,9 +5,11 @@
 }
 #searcher {
     width: 177px;
+    border: 3px;
     margin: 20px;
-    border-style: none;
-    border-radius: 4px;
+    border-style: solid;
+    border-radius: 6px;
+    border-color: gray;
     font-size: x-small;
     padding: 4px;
     color: gray;
